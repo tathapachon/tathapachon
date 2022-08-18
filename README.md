@@ -6,6 +6,7 @@ Bienvenido a mi perfil,Mi experiencia ha sido principalmente en el ámbito acad�
 Proyectos 
 
 [kilt-clothing.vercel.app](https://kilt-clothing.vercel.app/)
+<br/>
 Durante la elaboración de este proyecto mi mayor aporte estuvo en 
 -la creación y conexión del backend y frontend usando react, react redux y express y en base de datos sequelize.
 -creación de filtros de busqueda
